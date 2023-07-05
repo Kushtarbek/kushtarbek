@@ -13,7 +13,7 @@
 
   - 🌱 I’m currently studying: More about Java, Data structure and Algorithms
   - 💡 Curious about anything and everything
-  - ♥ Loves Cars, Programming, Self-development, and Outdoors activities
+  - ♥  Loves Cars, Programming, Self-development, and Outdoors activities
   - 🤔 Exploring new technologies and developing software solutions.
   - 🤝 I’m looking to collaborate on projects that positively impact people's lives.
   - 💬 Ask me about my transition from QA to Software Engineer
