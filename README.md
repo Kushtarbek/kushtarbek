@@ -1,7 +1,7 @@
 ![age](https://img.shields.io/badge/age-27-blue)
 ![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
-![living](https://img.shields.io/badge/living-SanJose-dodgerblue)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kushtarbek)
+![living](https://img.shields.io/badge/living-ChicagoSanFrancisco-dodgerblue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kushtar)
 
 <hr>
 <section>
