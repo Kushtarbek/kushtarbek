@@ -25,3 +25,6 @@
    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://camo.githubusercontent.com/b24914711d892af6d10c99624bb0fa576a0611ae17eb125380c517b2059063a4/68747470733a2f2f6e657861782e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6a6176612d312e676966" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
   <p>
 </section>
+
+
+![Copy of 239E5E05-F965-4DB1-93D6-3919A083E2A1](https://github.com/Kushtarbek/kushtarbek/assets/44345257/19cdc391-8293-4134-8e49-9f0e13f1db4a)
