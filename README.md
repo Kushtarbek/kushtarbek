@@ -17,6 +17,7 @@
   - 🤔 Exploring new technologies and developing software solutions.
   - 🤝 I’m looking to collaborate on projects that positively impact people's lives.
   - 💬 Ask me about my transition from QA to Software Engineer
+  - ❗️ Below are the images and screenshots of the projects that I contributed the most.
 </section>
 
 <section>
