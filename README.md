@@ -27,4 +27,4 @@
 </section>
 
 
-![image](https://drive.google.com/file/d/1DZMXZHQrUHdPjKWgWO2KGXA9irK-NISi/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1DZMXZHQrUHdPjKWgWO2KGXA9irK-NISi/view?usp=drive_link">
