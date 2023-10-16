@@ -16,8 +16,8 @@
   - 🖤  Loves Cars, Programming, Self-development, and Outdoors activities
   - 🤔 Exploring new technologies and developing software solutions.
   - 🤝 I’m looking to collaborate on projects that positively impact people's lives.
-  - 💬 Ask me about my transition from QA to Software Engineer
-  - ❗️ Below are the images and screenshots of the commercial projects that I contributed the most.
+  - 💬 Ask me about my journey from QA to Software Engineer
+  - ❗️ Below are the images and screenshots of the commercial projects that I contributed.
 </section>
 
 <section>
