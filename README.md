@@ -27,6 +27,12 @@
 
 </section>
 
+<section>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushtarbek&show_icons=true&locale=en&layout=compact" alt="kushtarbek" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushtarbek&show_icons=true&locale=en" alt="kushtarbek" /></p>
+
+</section>
+
 
 ![Hoptub-retail-management-system](https://github.com/Kushtarbek/kushtarbek/assets/44345257/783e0a4c-0387-4051-b9c6-4f63c57aa759)
 ![HoptubRetailManagement2](https://github.com/Kushtarbek/kushtarbek/assets/44345257/5cb81ee0-8a51-4503-866a-fa2330784226)
