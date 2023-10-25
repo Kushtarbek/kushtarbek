@@ -1,7 +1,7 @@
-![age](https://img.shields.io/badge/age-27-blue)
+![age](https://img.shields.io/badge/age-27-dodgerblue)
 ![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
 ![living](https://img.shields.io/badge/living-ChicagoSanFrancisco-dodgerblue)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kushtar)
+<img src="https://komarev.com/ghpvc/?username=kushtarbek&label=Profile%20views&color=blue&style=flat" alt="kushtarbek" />
 
 <hr>
 <section>
@@ -22,9 +22,9 @@
 
 <section>
   <h3> 💻 Languages and Tools </h3>
-  <p>
+
    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://camo.githubusercontent.com/b24914711d892af6d10c99624bb0fa576a0611ae17eb125380c517b2059063a4/68747470733a2f2f6e657861782e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6a6176612d312e676966" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
-  <p>
+
 </section>
 
 
