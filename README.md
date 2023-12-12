@@ -1,6 +1,6 @@
 ![age](https://img.shields.io/badge/age-27-dodgerblue)
 ![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
-![living](https://img.shields.io/badge/living-ChicagoSanFrancisco-dodgerblue)
+![living](https://img.shields.io/badge/living-SanJose,CA-dodgerblue)
 <img src="https://komarev.com/ghpvc/?username=kushtarbek&label=Profile%20views&color=blue&style=flat" alt="kushtarbek" />
 
 <hr>
