@@ -1,4 +1,4 @@
-![age](https://img.shields.io/badge/age-27-dodgerblue)
+![age](https://img.shields.io/badge/age-28-dodgerblue)
 ![focus](https://img.shields.io/badge/focus-FrontEnd-brightgreen)
 ![living](https://img.shields.io/badge/living-SanJose,CA-dodgerblue)
 <img src="https://komarev.com/ghpvc/?username=kushtarbek&label=Profile%20views&color=blue&style=flat" alt="kushtarbek" />
@@ -11,7 +11,7 @@
     <h3> 👨🏻‍💻 About Me </h3>
   </span>
 
-  - 🌱 I’m currently studying: More about Data structure, Algorithms and System Design.
+  - 🌱 I’m currently studying: More about Data structure, Algorithms, and System Design.
   - 💡 Curious about anything and everything
   - 🖤 Loves Travelling, Programming, Self-development, and Outdoors activities
   - 🤔 Exploring new technologies and developing software solutions.
