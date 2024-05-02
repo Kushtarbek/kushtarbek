@@ -11,9 +11,9 @@
     <h3> 👨🏻‍💻 About Me </h3>
   </span>
 
-  - 🌱 I’m currently studying: More about Java, Data structure, and Algorithms
+  - 🌱 I’m currently studying: More about Data structure, Algorithms and System Design.
   - 💡 Curious about anything and everything
-  - 🖤  Loves Cars, Programming, Self-development, and Outdoors activities
+  - 🖤 Loves Travelling, Programming, Self-development, and Outdoors activities
   - 🤔 Exploring new technologies and developing software solutions.
   - 🤝 I’m looking to collaborate on projects that positively impact people's lives.
   - 💬 Ask me about my journey from QA to Software Engineer
