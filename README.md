@@ -13,11 +13,10 @@
 
   - 🌱 I’m currently studying: More about Data structure, Algorithms, and System Design.
   - 💡 Curious about anything and everything
-  - 🖤 Loves Travelling, Programming, Self-development, and Outdoors activities
+  - 🖤 I like Travelling, Problem Solving, Learning, and Outdoors activities
   - 🤔 Exploring new technologies and developing software solutions.
   - 🤝 I’m looking to collaborate on projects that positively impact people's lives.
   - 💬 Ask me about my journey from QA to Software Engineer
-  - ❗️ Below are the images and screenshots of the commercial projects that I contributed.
 </section>
 
 <section>
