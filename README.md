@@ -16,7 +16,7 @@
   - 🖤 I like Travelling, Problem Solving, Learning, and Outdoors activities
   - 🤔 Exploring new technologies and developing software solutions.
   - 🤝 I’m looking to collaborate on projects that positively impact people's lives.
-  - 💬 Ask me about my journey from QA to Software Engineer
+  - 💬 Ask me about my journey to Software Engineering
 </section>
 
 <section>
